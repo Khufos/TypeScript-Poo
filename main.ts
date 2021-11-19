@@ -3,7 +3,7 @@ import  prompt from "prompt-sync";
 import Personagem from './Personagem';
 
 
-let person:Personagem = new Personagem("Iago Joseph",100,40,20,30);
+let person:Personagem = new Personagem("Khufos",100,40,20,30);
 
 let teclado = prompt();
 let opt : number = 0;
